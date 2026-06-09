@@ -74,5 +74,4 @@ Install these libraries from the Arduino Library Manager:
 
 ---
 
-## 📂 Project Structure
 
